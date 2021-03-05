@@ -53,30 +53,7 @@ Here comes the last step . Go to your [netlify](https://netlify.com) account and
 
 **BOOM! Your site is live.** Now you can go to forestry and add, remove or customize every setting and content.
 
-<!-- loacal nachine setup -->
-## Local Machine Setup
-At the top we have shown an easy hugo installation. But if you still think you want to go with the traditional way, use the following commands:
-
-* Clone the repository
-```
-$ git clone git@github.com:themefisher/meghna-hugo.git
-```
-
-* Go to exampleSite dict and run hugo server
-```
-$ cd meghna-hugo/exampleSite/
-$ hugo server --themesDir ../..
-```
 Or Check out [Full Documentation](https://docs.gethugothemes.com/meghna/?ref=github).
-
-<!-- reporting issue -->
-## Reporting Issues
-We use GitHub Issues as the official bug tracker for the Meghna Template. Please Search [existing issues](https://github.com/themefisher/meghna-hugo/issues). It’s possible someone has already reported the same problem.
-If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/themefisher/meghna-hugo/issues).
-
-<!-- support -->
-## Technical Support or Questions (Paid)
-If you have questions or need help integrating the product please [contact us](mailto:mehedi@themefisher.com) instead of opening an issue.
 
 <!-- licence -->
 ## License
